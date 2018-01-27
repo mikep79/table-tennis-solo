@@ -3,8 +3,8 @@ Table tennis game for 1 player. Use left and right to control paddle. The block 
 
 <br>
 <p>
-<img src="pic1.png" width="450px" />
-<img src="pic2.png" width="450px" />
+<img src="pic1.png" width="400px" />
+<img src="pic2.png" width="400px" />
 </p>
 <br>
 
